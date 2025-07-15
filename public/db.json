@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1e0c",
+      "name": "juancho",
+      "email": "juancho@admin.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "daaa",
+      "name": "jafit",
+      "email": "jafit@mail.com",
+      "password": "123456789",
+      "role": "user"
+    },
+    {
+      "id": "26fe",
+      "name": "Juanito",
+      "email": "juanito@mail.com",
+      "password": "123456",
+      "role": "user"
+    }
+  ],
+  "events": [
+    {
+      "id": "101",
+      "name": "festival de la ciruela",
+      "date": "2025-03-10",
+      "location": "campeche",
+      "capacity": 5,
+      "registeredUsers": [
+        "26fe",
+        "daaa"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "festival del frito",
+      "date": "2025-07-01",
+      "location": "luruaco",
+      "capacity": 1,
+      "registeredUsers": [
+        "26fe"
+      ]
+    }
+  ]
+}
