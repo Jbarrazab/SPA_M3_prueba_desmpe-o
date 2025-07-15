@@ -1,10 +1,10 @@
 {
 	"info": {
-		"_postman_id": "8aaf2695-c4c6-43cd-ada0-4017b62f1e88",
+		"_postman_id": "aafb59e0-c380-424b-8460-6197a841e226",
 		"name": "EventManagement",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "46366520",
-		"_collection_link": "https://juancontreras-3189806.postman.co/workspace/Juan-Contreras's-Workspace~1bd1ce2d-e8b8-4d6c-89b1-9b4e43b270d9/collection/46366520-8aaf2695-c4c6-43cd-ada0-4017b62f1e88?action=share&source=collection_link&creator=46366520"
+		"_exporter_id": "46564293",
+		"_collection_link": "https://jafitbarrazab.postman.co/workspace/PetCare_entrenamiento~95fda31d-4410-49ed-aa4a-1c34811c5557/collection/46564293-aafb59e0-c380-424b-8460-6197a841e226?action=share&source=collection_link&creator=46564293"
 	},
 	"item": [
 		{
@@ -189,7 +189,10 @@
 					"name": "Get all events",
 					"request": {
 						"method": "GET",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": ""
+						}
 					},
 					"response": []
 				},
